@@ -30,4 +30,4 @@ We evaluated the following models for predicting patient mortality:
 
 ## Appendix
 
-For the full code and documentation, refer to our [GitHub Repository](https://github.com/JKJIN1999/A3-MLH.git).
+Please refer to our [GitHub Repository](https://github.com/JKJIN1999/A3-MLH.git).
